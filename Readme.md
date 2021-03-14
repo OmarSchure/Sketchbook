@@ -1,5 +1,3 @@
-*The Sketchbook*
+Link zum neuen Repository: https://github.com/marvin6197/TheSketchbook
 
-More detail to come soon ...
-
-Omar ist lustig
+Dieses Repository ist leider defekt, wir können keine Änderungen mehr committen.
